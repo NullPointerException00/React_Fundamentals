@@ -1,0 +1,8 @@
+.border {
+    display: flex;
+    justify-content: space-between;
+    margin:24px auto 24px auto;
+    border: 2px solid orange;
+    width:90%;
+    height: 100px;
+}
